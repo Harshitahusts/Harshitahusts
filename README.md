@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Devops bootcamp**
 
-- 📝 I regularly write articles on [https://hashnode.com/@harshit619](https://hashnode.com/@harshit619)
+- 📝 I regularly write blogs on [https://hashnode.com/@harshit619](https://hashnode.com/@harshit619)
 
 - 💬 Ask me about **MERN stack**
 
